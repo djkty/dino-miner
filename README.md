@@ -1,0 +1,2 @@
+# dino-miner
+qwaedt
